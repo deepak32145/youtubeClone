@@ -1,6 +1,6 @@
 import React from "react";
 
-const VideoCard = () => {
+const VideoCard = ({ item }) => {
   return <div>VideoCard</div>;
 };
 
